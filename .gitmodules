@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/NekoSukuriputo/kabuki-neko-backend.git
+
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NekoSukuriputo/kabuki-neko-frontend.git
